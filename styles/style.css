@@ -46,10 +46,6 @@
   width: 140px;
 }
 
-.address {
-  font-style: inherit;
-}
-
 .header__address {
   justify-self: end;
   font-style: inherit;
@@ -299,6 +295,10 @@
   display: flex;
   justify-content: space-between;
   padding: 180px 50px 80px;
+}
+
+.address {
+  font-style: inherit;
 }
 
 .footer__social-icon {
