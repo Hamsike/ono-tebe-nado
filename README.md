@@ -1,5 +1,5 @@
 https://github.com/Hamsike/ono-tebe-nado
-# Проект "Оно тебе надо
+# Проект "Оно тебе надо"
 ## Оглавление
 - [Скриншот](#скриншот)
 - [Макет](#макет)
@@ -11,5 +11,5 @@ https://github.com/Hamsike/ono-tebe-nado
 Макет задания: [Figma](https://www.figma.com/file/j0GR1cSFoZbUnNWNvpDapI)
 ### Ссылки
 URL решения: [Github](https://github.com/MikeBeloborodov/ono-tebe-nado)
-## Автор
+### Автор
 Github - [Hamsike](https://github.com/Hamsike)
