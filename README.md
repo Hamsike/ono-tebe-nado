@@ -10,6 +10,6 @@ https://github.com/Hamsike/ono-tebe-nado
 ### Макет
 Макет задания: [Figma](https://www.figma.com/file/j0GR1cSFoZbUnNWNvpDapI)
 ### Ссылки
-URL решения: [Github](https://github.com/MikeBeloborodov/ono-tebe-nado)
+URL решения: [Github](https://github.com/Hamsike/ono-tebe-nado)
 ### Автор
 Github - [Hamsike](https://github.com/Hamsike)
